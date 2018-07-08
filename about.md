@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/06/21/drone-photo.jpeg"
   navigation:
   - link_text: Home
-    link: Homepage
+    link: "/"
   cta:
     button_text: Subscribe
     url: subscribe
